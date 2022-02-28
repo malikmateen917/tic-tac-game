@@ -1,2 +1,3 @@
 # tic-tac-game
-# this is vey expensive and simple 
+# this game is vey expensive and simple 
+# the game is very beautiful
